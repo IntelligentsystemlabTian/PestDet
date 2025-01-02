@@ -1,0 +1,13 @@
+path: /data/jida.tian/baseline/all
+train: images/train
+val:    images/val
+test:  images/test
+# number of classes
+nc: 6   # 修改为自己的类别数量
+# class names
+names: [ "cf",
+        "sz",
+        "tc",
+        "os",
+        "rd",
+        "unknown"]  # 自己来的类别名称
