@@ -35,25 +35,25 @@ We provide post-processed data for training and testing. The dataset is initiall
 Please make sure dataset with the following folder structure：
 <details>
   <summary>Folde Structure</summary>
-  │PestDataset/
-  ├──images/
-  │  ├── train
-  │  │   ├── 1.jpg
-  │  │   ├── ......
-  │  ├── val
-  │  │   ├── 2.jpg
-  │  │   ├── ......
-  │  ├── test
-  │  │   ├── 3.jpg
-  │  │   ├── ......
-  ├──images/
-  │  ├── train
-  │  │   ├── 1.txt
-  │  │   ├── ......
-  │  ├── val
-  │  │   ├── 2.txt
-  │  │   ├── ......
-  │  ├── test
-  │  │   ├── 3.txt
-  │  │   ├── ......
+  │PestDataset/  
+  ├──images/  
+  │  ├── train  
+  │  │   ├── 1.jpg  
+  │  │   ├── ......  
+  │  ├── val  
+  │  │   ├── 2.jpg  
+  │  │   ├── ......  
+  │  ├── test  
+  │  │   ├── 3.jpg  
+  │  │   ├── ......  
+  ├──images/  
+  │  ├── train  
+  │  │   ├── 1.txt  
+  │  │   ├── ......  
+  │  ├── val  
+  │  │   ├── 2.txt  
+  │  │   ├── ......  
+  │  ├── test  
+  │  │   ├── 3.txt  
+  │  │   ├── ......  
 </details>
