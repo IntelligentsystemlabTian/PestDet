@@ -13,8 +13,8 @@ scipy>=1.4.1
 torch>=1.7.0  
 torchvision>=0.8.1  
 tqdm>=4.41.0  
-1. cd PestDet
-2. pip install requirements.txt
+
+To install the requirements, enter the root directory of PestDet and execute the command "pip install -r requirements.txt".
 ### Train
 1.Modify the dataset path in PestDet/data/data.yaml.
 
