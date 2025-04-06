@@ -1,6 +1,6 @@
 # PestDet
 ## Describe
-This is a framework constructed based on the YOLO project, designed for training and testing the PestDet framework.
+Our framework needs to run in the PyTorch framework and utilizes Nvidia GPUs. The dataset employed is our previously established GrainPest dataset.
 ## How to use
 ### requirements
 1. cd PestDet
