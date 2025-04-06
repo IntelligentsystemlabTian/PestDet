@@ -21,7 +21,7 @@ Modify the dataset path in "PestDet/data/data.yaml", then run the following comm
   <summary>Train PestDet</summary>
   python train.py --data data/data.yaml --cfg models/PestDet.yaml
 </details>
-### Validation
+### Train
 After training is complete, run the following code for verification:
 
 ## Dataset
