@@ -7,6 +7,7 @@ Training PestDet requires the following libraries:
 <details>
   <summary>Requirements</summary>
   matplotlib>=3.2.2  
+  
   numpy>=1.18.5  
   opencv-python>=4.1.2  
   Pillow>=7.1.2  
