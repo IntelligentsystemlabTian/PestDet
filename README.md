@@ -16,9 +16,9 @@ tqdm>=4.41.0
 
 To install the requirements, enter the root directory of PestDet and execute the command "pip install -r requirements.txt".
 ### Train
-1.Modify the dataset path in PestDet/data/data.yaml.
+Modify the dataset path in "PestDet/data/data.yaml", then run the following command to start training:
 
-2.Enter commands (python train) in the root directory of the project.
+python train.py --data data/data.yaml --cfg models/PestDet.yaml
 
 ## Dataset
 We provide a portion of pest data for training and testing. The model training utilizes a dataset in VOC format, which can be accessed at the following link: [https://github.com/IntelligentsystemlabTian/PestDataset](https://github.com/IntelligentsystemlabTian/PestDataset).
