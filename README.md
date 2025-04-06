@@ -47,7 +47,7 @@ Please make sure dataset with the following folder structure：
   │  ├── test  
   │  │   ├── 3.jpg  
   │  │   ├── ......  
-  ├──images/  
+  ├──labels/  
   │  ├── train  
   │  │   ├── 1.txt  
   │  │   ├── ......  
