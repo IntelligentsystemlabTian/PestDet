@@ -21,6 +21,8 @@ Modify the dataset path in "PestDet/data/data.yaml", then run the following comm
   <summary>Train PestDet</summary>
   python train.py --data data/data.yaml --cfg models/PestDet.yaml
 </details>
+### Validation
+After training is complete, run the following code for verification:
 
 ## Dataset
 We provide a portion of pest data for training and testing. The model training utilizes a dataset in VOC format, which can be accessed at the following link: [https://github.com/IntelligentsystemlabTian/PestDataset](https://github.com/IntelligentsystemlabTian/PestDataset).
