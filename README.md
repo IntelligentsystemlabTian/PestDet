@@ -19,6 +19,7 @@ Training PestDet requires the following libraries:
   tqdm>=4.41.0 .  
 </details>
 To install the requirements, enter the root directory of PestDet and execute the command "pip install -r requirements.txt".
+
 ### Train
 Modify the dataset path in "PestDet/data/data.yaml", then run the following command to start training:  
 <details>
