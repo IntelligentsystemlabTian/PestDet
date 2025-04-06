@@ -2,18 +2,21 @@
 ## Describe
 Our framework needs to run in the PyTorch framework and utilizes Nvidia GPUs. The dataset employed is our previously established GrainPest dataset.
 ## How to use
-### requirements
-matplotlib>=3.2.2  
-numpy>=1.18.5  
-opencv-python>=4.1.2  
-Pillow>=7.1.2  
-PyYAML>=5.3.1  
-requests>=2.23.0  
-scipy>=1.4.1  
-torch>=1.7.0  
-torchvision>=0.8.1  
-tqdm>=4.41.0  
-
+### Requirements
+Training PestDet requires the following libraries:
+<details>
+  <summary>Requirements</summary>
+  matplotlib>=3.2.2  
+  numpy>=1.18.5  
+  opencv-python>=4.1.2  
+  Pillow>=7.1.2  
+  PyYAML>=5.3.1  
+  requests>=2.23.0  
+  scipy>=1.4.1  
+  torch>=1.7.0  
+  torchvision>=0.8.1  
+  tqdm>=4.41.0 .  
+</details>
 To install the requirements, enter the root directory of PestDet and execute the command "pip install -r requirements.txt".
 ### Train
 Modify the dataset path in "PestDet/data/data.yaml", then run the following command to start training:  
