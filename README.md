@@ -30,4 +30,4 @@ After training is complete, run the following code for verification:
 </details>
 
 ## Dataset
-We provide a portion of pest data for training and testing. The model training utilizes a dataset in VOC format, which can be accessed at the following link: [https://github.com/IntelligentsystemlabTian/PestDataset](https://github.com/IntelligentsystemlabTian/PestDataset).
+We provide post-processed data for training and testing. The dataset is initially in VOC format and needs to be converted to YOLO format before use. Our dataset can be accessed via the following link: [https://github.com/IntelligentsystemlabTian/PestDataset](https://github.com/IntelligentsystemlabTian/PestDataset).
