@@ -31,3 +31,29 @@ After training is complete, run the following code for verification:
 
 ## Dataset
 We provide post-processed data for training and testing. The dataset is initially in VOC format and needs to be converted to YOLO format before use. Our dataset can be accessed via the following link: [https://github.com/IntelligentsystemlabTian/PestDataset](https://github.com/IntelligentsystemlabTian/PestDataset).
+
+Please make sure dataset with the following folder structure：
+<details>
+  <summary>Folde Structure</summary>
+  │PestDataset/
+  ├──images/
+  │  ├── train
+  │  │   ├── 1.jpg
+  │  │   ├── ......
+  │  ├── val
+  │  │   ├── 2.jpg
+  │  │   ├── ......
+  │  ├── test
+  │  │   ├── 3.jpg
+  │  │   ├── ......
+  ├──images/
+  │  ├── train
+  │  │   ├── 1.txt
+  │  │   ├── ......
+  │  ├── val
+  │  │   ├── 2.txt
+  │  │   ├── ......
+  │  ├── test
+  │  │   ├── 3.txt
+  │  │   ├── ......
+</details>
