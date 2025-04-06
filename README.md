@@ -4,6 +4,7 @@ Our framework needs to run in the PyTorch framework and utilizes Nvidia GPUs. Th
 ## How to use
 ### requirements
 matplotlib>=3.2.2
+
 numpy>=1.18.5
 opencv-python>=4.1.2
 Pillow>=7.1.2
