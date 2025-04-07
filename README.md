@@ -28,7 +28,7 @@ Modify the dataset path in "PestDet/data/data.yaml", then run the following comm
 </details>
 
 ### Validation
-After training is complete, run the following code for verification:
+After training is complete, run the following command for verification:
 <details>
   <summary>Val PestDet</summary>
   python val.py --data data/data.yaml --weights "The path where the weight is located"
