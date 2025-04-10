@@ -35,7 +35,7 @@ After training is complete, run the following command for verification:
 </details>
 
 ## Dataset
-We provide post-processed data for training and testing. The dataset is initially in VOC format and needs to be converted to YOLO format before use. All the dataset are in the folder "PestDataset".
+We provide post-processed data for training and testing. The dataset is initially in VOC format and needs to be converted to YOLO format before use. All the dataset are in the folder "PestDataset" You can also download dataset form [link](https://drive.google.com/drive/folders/1eTHVN8ItJVN4abC76HKTUH7uXWsNzcMh?usp=sharing).
 
 Please make sure dataset with the following folder structure：
 <details>
